@@ -1,0 +1,170 @@
+header {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(images/h1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    text-shadow: 2px 4px 4px;
+    font-size: 200%;
+    height: 200px;
+    padding-top: 15px;
+    background-color: black;
+
+}
+
+body {
+    background-color: #15151D;
+    background-image: linear-gradient(to top, #6b6b78, #4b4c56);
+}
+
+h1 {
+    font-size: 90px;
+    color: #FFFFFF;
+    font-weight: bold;
+
+}
+
+nav {
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    background-color: #4b4c56;
+    font-size: 20px;
+}
+
+nav a {
+    padding: 2px;
+    margin: 1px;
+    text-decoration: none;
+
+}
+
+a:link {
+    color: #FFFFFF;
+
+}
+
+a:visited {
+    color: firebrick;
+}
+
+a:hover {
+    color: #21C2C2;
+}
+
+p a:hover {
+    color: #21C2C2;
+}
+
+h3 {
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+p a {
+    color: #FFFFFF;
+}
+
+div p {
+    text-align: center;
+    padding-top: 10px;
+}
+
+div a img {
+    display: block;
+    margin: 0 auto;
+}
+
+div img {
+    display: inline;
+    margin: 0 auto;
+}
+
+.topRank a {
+    font-size: 100px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+ul li {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #0F101E;
+
+
+}
+
+#ss {
+    display: block;
+    margin: 0 auto;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #0F101E;
+    color: #FFFFFF;
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+    clear: both;
+}
+
+table,
+th,
+td {
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 15px;
+}
+
+label {
+    color: #FFFFFF;
+    float: left;
+    display: block;
+    text-align: right;
+    width: 120px;
+    padding-right: 10px;
+}
+
+
+input {
+    display: block;
+    margin-bottom: 20px;
+
+}
+
+textarea {
+    display: block;
+    margin-bottom: 20px;
+}
+
+input[type=submit] {
+    margin-left: 130px;
+
+}
